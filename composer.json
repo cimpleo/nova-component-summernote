@@ -1,6 +1,7 @@
 {
     "name": "cimpleo/nova-summernote",
     "description": "A Laravel Nova wrapper for the Summernote WYSIWYG editor",
+    "type": "library",
     "keywords": [
         "laravel",
         "nova",
@@ -8,6 +9,24 @@
         "summernote"
     ],
     "license": "MIT",
+    "homepage": "https://github.com/cimpleo/nova-component-summernote",
+    "authors": [
+        {
+            "name": "Cimpleo",
+            "homepage": "https://cimpleo.com/",
+            "email": "hello@cimpleo.com"
+        },
+        {
+           "name": "Denis Sidorov",
+           "email": "denis.sidorov@cimpleo.com",
+           "role": "Developer"
+        },
+        {
+           "name": "Vlad Lesovskiy",
+           "email": "vlad.lesovskiy@cimpleo.com",
+           "role": "Developer"
+        }
+    ],
     "require": {
         "php": ">=7.1.0"
     },
