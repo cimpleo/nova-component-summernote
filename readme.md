@@ -3,7 +3,7 @@
 Nova field wrapper around the [summernote](https://github.com/summernote/summernote).
 
 ## Installation
-1. `composer require pixwireless/nova-component-summernote`
+1. `composer require cimpleo/nova-summernote`
 2. Run `php artisan vendor:publish --tag=public` to puslish the fonts to the public directory
 2. That's it.
 
