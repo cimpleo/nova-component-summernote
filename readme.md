@@ -12,7 +12,7 @@ Add the following to one of your resources
 
 Import NovaSummernote
 
-`use Cimpleo\Summernote\Summernote;`
+`use Cimpleo\NovaSummernote\NovaSummernote;`
 
 Then call it inside the fields method of your resource.
 
